@@ -1,2 +1,2 @@
-# Escudo Capitao America
- Primeiro repositório versionado
+# Escudo Capitão América.
+ Meu primeiro repositório versionado.
